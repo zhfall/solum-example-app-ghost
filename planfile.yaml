@@ -1,7 +1,7 @@
 name: ghost
-description: ghost blogging platform
+description: ghost1 blogging platform
 artifacts:
-- name: ghost
+- name: ghost1
   artifact_type: application.heroku
   content:
     href: https://github.com/zhfall/solum-example-app-ghost.git
