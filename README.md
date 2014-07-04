@@ -1,4 +1,4 @@
-# Example Solum App - Ghost
+# Example Solum App - Ghost [![Build Status](https://travis-ci.org/zhfall/solum-example-app-ghost.svg?branch=master)](https://travis-ci.org/zhfall/solum-example-app-ghost)
 
 Ghost on Solum.io
 
